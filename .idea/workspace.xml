@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="108073b9-5ec0-4b99-a7ec-196d1e8d3153" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookapp/models.py" afterPath="$PROJECT_DIR$/bookapp/models.py" />
     </list>
     <ignored path="BOOKMS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +26,7 @@
       <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="884" selection-end="884" vertical-scroll-proportion="0.66906476">
+            <state line="24" column="23" selection-start="969" selection-end="969" vertical-scroll-proportion="0.8057554">
               <folding />
             </state>
           </provider>
@@ -312,7 +313,11 @@
       <created>1349081772107</created>
       <updated>1349081772107</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002">
+      <created>1349081829105</created>
+      <updated>1349081829105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -416,7 +421,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bookapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="884" selection-end="884" vertical-scroll-proportion="0.66906476">
+        <state line="24" column="23" selection-start="969" selection-end="969" vertical-scroll-proportion="0.8057554">
           <folding />
         </state>
       </provider>
